@@ -24,14 +24,14 @@ _the first comand is to locate into the same folder jar and the secon is to exec
 ![img](https://i.imgur.com/eyQeWU8.png[/img])
 
 
-#####then choose play and set the mode
+##### then choose play and set the mode
 
 
 ![img](https://i.imgur.com/QFAzHm1.png[/img])
 
 
 
-#####we have tree modes but the lastOne  PlayervsMachine is not  finished if you want to finish you can make a pull request.  For others modes (Only or "solo" and PlayervsPlayer or "JvsJ") we have the next images
+##### we have tree modes but the lastOne  PlayervsMachine is not  finished if you want to finish you can make a pull request.  For others modes (Only or "solo" and PlayervsPlayer or "JvsJ") we have the next images
 
 
 ![img](https://i.imgur.com/1YPbOme.png[/img])
@@ -39,16 +39,16 @@ _the first comand is to locate into the same folder jar and the secon is to exec
 ![img](https://i.imgur.com/bnpJ9gn.png[/img])
 ![img](https://i.imgur.com/rSU0CXZ.png[/img])
 
-#####for  PlayervsMachine the machine can't move alone if you want to implements I will be very gratful to recive your pull request.
+##### for  PlayervsMachine the machine can't move alone if you want to implements I will be very gratful to recive your pull request.
 
-##In the game are two type of things that the snake can eat
-#####food
+## In the game are two type of things that the snake can eat
+##### food
 ![img](https://i.imgur.com/E22JnVD.png[/img])   this make the snake grow tree time
 ![img](https://i.imgur.com/dqOOVPC.png[/img]) this make the snake grow one time
 ![img](https://i.imgur.com/s7bZ4yP.png[/img])  this make the snake shrink one time
 ![img](https://i.imgur.com/NNtAF9o.png[/img])  this kill the snake
-#####surprises
-######you can activate with space
+##### surprises
+###### you can activate with space
 ![img](https://i.imgur.com/scqL9Tw.png[/img]) this put a block trap in the board
 ![img](https://i.imgur.com/uXXZSXn.png[/img]) this speed up the snake
 ![img](https://i.imgur.com/wm4gGhS.png[/img]) this speed down the snake
