@@ -207,7 +207,7 @@ public class SnOOPeGUI extends JFrame implements Serializable{
         // Ajustes ventana
         setTitle("SnOOPe");
         Dimension pantalla = getToolkit().getScreenSize();
-        pantalla.setSize((int)(pantalla.getWidth()/3),(int)(pantalla.getWidth()/3));
+        pantalla.setSize((int)(pantalla.getWidth()/3)+71,(int)(pantalla.getWidth()/3)+71);
         setSize(pantalla);
         setLocationRelativeTo(null);
 
