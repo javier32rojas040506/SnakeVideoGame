@@ -20,7 +20,7 @@ java -jar SnOOPe.jar
 
 _the first comand is to locate into the same folder jar and the secon is to execute_
 ## The game 🍺
-#####when you run the game you have the screen
+##### when you run the game you have the screen
 ![img](https://i.imgur.com/eyQeWU8.png[/img])
 
 
